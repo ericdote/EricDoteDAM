@@ -38,15 +38,7 @@ final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
         
-        "combination",
-        "consequently",
-        "consortium",
-        "decrementing",
-        "dependency",
-        "disambiguate",
-        "dynamic",
-        "encapsulation",
-        "equivalent",
+        
         "expression",
         "facilitate",
         "fragment",
