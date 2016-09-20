@@ -37,12 +37,7 @@ package com.toy.anagrams.lib;
 final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
-        "abstraction",
-        "ambiguous",
-        "arithmetic",
-        "backslash",
-        "bitmap",
-        "circumstance",
+        
         "combination",
         "consequently",
         "consortium",
@@ -66,8 +61,6 @@ final class StaticWordLibrary extends WordLibrary {
         "navigation",
         "optimization",
         "parameter",
-        "patrick",
-        "pickle",
         "polymorphic",
         "rigorously",
         "simultaneously",
@@ -106,7 +99,6 @@ final class StaticWordLibrary extends WordLibrary {
         "milpmeneatitno",
         "niidtsniugsiahleb",
         "niehiratcen",
-        "nietnret",
         "ajav",
         "olacilazitno",
         "imrcpoorecssro",
