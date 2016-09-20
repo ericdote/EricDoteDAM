@@ -38,7 +38,34 @@ final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
         
-        };
+        "expression",
+        "facilitate",
+        "fragment",
+        "hexadecimal",
+        "implementation",
+        "indistinguishable",
+        "inheritance",
+        "internet",
+        "java",
+        "localization",
+        "microprocessor",
+        "navigation",
+        "optimization",
+        "parameter",
+        "polymorphic",
+        "rigorously",
+        "simultaneously",
+        "specification",
+        "structure",
+        "lexical",
+        "likewise",
+        "management",
+        "manipulate",
+        "mathematics",
+        "hotjava",
+        "vertex",
+        "unsigned",
+        "traditional"};
 
     private static final String[] SCRAMBLED_WORD_LIST = {
         "batsartcoin",
