@@ -38,6 +38,10 @@ final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
         
+        "lalalala",
+        "lelelele",
+        "nanananana",
+        "BATMAN",
         
         "expression",
         "facilitate",
